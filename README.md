@@ -26,3 +26,4 @@ The React component displays a `
 
 output:
 
+![Image](https://github.com/user-attachments/assets/c8ddaec9-1f4d-4846-89d7-94fef3f6e2a9)
